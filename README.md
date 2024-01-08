@@ -1,6 +1,6 @@
 Tutorial: https://www.baeldung.com/multitenancy-with-spring-data-jpa
 
-Tenants folder tenant example:
+./tenants folder tenant example:
 ~~~
 #XfTenantID
 name=tenant1
