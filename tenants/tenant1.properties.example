@@ -1,9 +1,0 @@
-#Basic Spring Boot Config for Oracle
-
-#XfTenantID
-name=tenant1
-
-datasource.url=
-datasource.username=
-datasource.password=
-datasource.driver-class-name=oracle.jdbc.OracleDriver
