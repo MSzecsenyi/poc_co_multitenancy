@@ -11,5 +11,6 @@ datasource.password=
 datasource.driver-class-name=oracle.jdbc.OracleDriver
 ~~~
 
-Request Header param:
-XfTenantID
+Request:</br>
+Header param: XfTenantID</br>
+endpoint: url/api/users
