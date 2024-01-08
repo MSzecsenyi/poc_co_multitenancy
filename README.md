@@ -10,3 +10,6 @@ datasource.username=
 datasource.password=
 datasource.driver-class-name=oracle.jdbc.OracleDriver
 ~~~
+
+Request Header param:
+XfTenantID
